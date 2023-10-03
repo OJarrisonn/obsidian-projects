@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "dffbf27f549ab712",
+    "type": "split",
+    "children": [
+      {
+        "id": "9875ba86a388f785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "563168549d35daa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ORG/Jay8/Jay8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f84279769f7f212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARCL/Features/Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a54be075094458e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4591aa977b77544f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36893baaa7f94c53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e734e28e27691eeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87e5edda95521c1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "854dce422d2f7b61",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0880949c7fa1367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ab9f9be8bf23bd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ARCL/Features/Functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "653fd5f047a70c3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ARCL/Features/Functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ff2f4af51691e63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f117051b13071596",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ARCL/Features/Functions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7f84279769f7f212",
+  "lastOpenFiles": [
+    "ARCL/Features/Boxes.md",
+    "ARCL/Features/Operators.md",
+    "ARCL/Features/Functions.md",
+    "ARCL/Features/Memory.md",
+    "ARCL/Features/Types.md",
+    "ARCL/Features/Possession.md",
+    "ORG/Virgo/Virgo.md",
+    "ORG/Jay8/Jay8.md",
+    "ORG/Jay8",
+    "ORG/Virgo",
+    "ORG",
+    "Untitled 1.md",
+    "ARCL/Home.canvas",
+    "ARCL/What's ARCL.md",
+    "Features.md",
+    "ARCL/Features",
+    "ARCL"
+  ]
+}

@@ -1,0 +1,1 @@
+Values are stored in memory and they are possessed by some one. Once their owner is gone the memory is freed. But a possessor can give hand of the value to some other entity if the value is stored in the shared memory.
