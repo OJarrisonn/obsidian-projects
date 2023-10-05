@@ -12,4 +12,5 @@ Bitwise: & | ^ !
 - ``->``: points to someone
 - ``=``: shallow copy
 - ``:=``: deep copy
-- 
+## Parallelism
+- ``<identifier>...``: blocks the execution until the promisse is finally evaluated

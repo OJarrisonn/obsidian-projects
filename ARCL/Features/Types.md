@@ -18,7 +18,9 @@ Borrows values possessed by other boxes for read and write
 ## Nullables ``T?``
 The value can be a ``null`` or can be unwraped into the corresponding type 
 ## Failables ``T!``
-The value can be a ``sucess<type>`` or a ``error``
+The value can be a ``success<type>`` or an ``error``
+## Promisses ``|T``
+The value is generated from a parallel function 
 # Compounds
 ## Concatenation
 ## Single Coersion
