@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARCL/Features/Types.md",
+                "file": "ORG/Jay8/Jay8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a68e8ce7d845f3b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ORG/Virgo/WSL/Setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARCL/Features/Types.md",
+                "file": "ORG/Virgo/WSL/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARCL/Features/Types.md",
+                "file": "ORG/Virgo/WSL/Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARCL/Features/Types.md"
+                "file": "ORG/Virgo/WSL/Setup.md"
               }
             }
           }
@@ -171,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bde126cf72e1736",
+  "active": "a68e8ce7d845f3b2",
   "lastOpenFiles": [
-    "ARCL/Features/Decisions, Branching and Pattern Matching.md",
+    "ORG/Jay8/Jay8.md",
+    "ORG/Virgo/WSL/Setup.md",
     "ARCL/Features/Types.md",
+    "ARCL/Features/Decisions, Branching and Pattern Matching.md",
     "ARCL/Features/Operators.md",
     "ARCL/Features/Iteration and Loops.md",
     "ARCL/Features/Functions.md",
@@ -184,7 +198,6 @@
     "ORG/Virgo/Virgo.md",
     "Helpful",
     "ARCL/Features/Memory.md",
-    "ORG/Jay8/Jay8.md",
     "ORG/Jay8",
     "ORG/Virgo",
     "ORG",
