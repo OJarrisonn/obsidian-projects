@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORG/Virgo/Pop!_OS.md",
+                "file": "ORG/Virgo/WSL/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORG/Virgo/Pop!_OS.md",
+                "file": "ORG/Virgo/WSL/Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORG/Virgo/Pop!_OS.md"
+                "file": "ORG/Virgo/WSL/Setup.md"
               }
             }
           }
@@ -175,14 +175,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a234198adb0c6e5c",
+  "active": "3cdb069603416ed2",
   "lastOpenFiles": [
+    "ORG/Virgo/Pop!_OS.md",
     "ORG/Virgo/Pop!_OS/install.nix",
     "ORG/Virgo/Pop!_OS/Novo(a) Documento de Texto.txt",
     "ORG/Virgo/Pop!_OS",
     "ORG/Virgo/Nova pasta",
     "ORG/Virgo/WSL/Setup.md",
-    "ORG/Virgo/Pop!_OS.md",
     "TrashCan/Features/Iteration and Loops.md",
     "TrashCan/Features/Functions.md",
     "ARCL/Type/Type.md",
@@ -212,7 +212,6 @@
     "ARCL/Terminology",
     "ARCL/Memory",
     "ARCL/Type",
-    "ARCL/Box",
-    "Untitled"
+    "ARCL/Box"
   ]
 }

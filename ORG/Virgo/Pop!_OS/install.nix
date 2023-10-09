@@ -3,6 +3,7 @@
 {
     inherit (pkgs)
         asdf-vm
+        docker
         fd
         gh
         google-chrome
@@ -10,5 +11,5 @@
         tailscale
         vim
         vscode
-        zsh
+        zsh;
 }
