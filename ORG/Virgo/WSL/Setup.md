@@ -45,7 +45,7 @@ curl, wget, zsh, unzip, openssh, make, cmake
 ```
 Pacotes utilitários via yay:
 ```
-ranger, tailscale, github-cli, fd, asdf-vm, zsh-theme-powerlevel10k-git, nvim, lazygit, htop
+ranger, tailscale, github-cli, fd, asdf-vm, zsh-theme-powerlevel10k-git, neovim, lazygit, htop
 ```
 ## ASDF
 Ativar:

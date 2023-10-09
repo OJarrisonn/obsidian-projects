@@ -1,0 +1,1 @@
+Shared Memory is the memory region to store unscoped values, so the values living here aren't attached to the [[Lifetime]] of the scope where the value was created. So they will live until the program ends.

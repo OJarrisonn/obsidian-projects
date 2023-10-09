@@ -1,0 +1,1 @@
+Concurrency in ARCL is provided using the ``|`` operator for creating parallel [[Function|functions]], [[iterator|iterators]] and asyncronous [[Type|types]]. 

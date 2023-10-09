@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"24d79de4814ad1dc","type":"file","file":"ARCL/What's ARCL.md","x":-500,"y":-320,"width":680,"height":180}
+		{"id":"24d79de4814ad1dc","type":"file","file":"ARCL/What's ARCL.md","x":-500,"y":-320,"width":680,"height":280},
+		{"id":"5b0804a079c0751d","x":-360,"y":60,"width":400,"height":400,"type":"file","file":"ARCL/Memory/Memory Safety.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"36e998d933440623","fromNode":"24d79de4814ad1dc","fromSide":"bottom","toNode":"5b0804a079c0751d","toSide":"top"}
+	]
 }

@@ -11,40 +11,24 @@
             "id": "f7281f47c78258d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARCL/Features/Operators.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "06e5443dcce53843",
+            "id": "a234198adb0c6e5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARCL/Features/Decisions, Branching and Pattern Matching.md",
+                "file": "ORG/Virgo/Pop!_OS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9bde126cf72e1736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ORG/Jay8/Jay8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a68e8ce7d845f3b2",
+            "id": "3cdb069603416ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,6 +85,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "304a30866f11b531",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -122,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORG/Virgo/WSL/Setup.md",
+                "file": "ORG/Virgo/Pop!_OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORG/Virgo/WSL/Setup.md",
+                "file": "ORG/Virgo/Pop!_OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ORG/Virgo/WSL/Setup.md"
+                "file": "ORG/Virgo/Pop!_OS.md"
               }
             }
           }
@@ -183,29 +175,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a68e8ce7d845f3b2",
+  "active": "a234198adb0c6e5c",
   "lastOpenFiles": [
-    "ORG/Jay8/Jay8.md",
+    "ORG/Virgo/Pop!_OS/install.nix",
+    "ORG/Virgo/Pop!_OS/Novo(a) Documento de Texto.txt",
+    "ORG/Virgo/Pop!_OS",
+    "ORG/Virgo/Nova pasta",
     "ORG/Virgo/WSL/Setup.md",
-    "ARCL/Features/Types.md",
-    "ARCL/Features/Decisions, Branching and Pattern Matching.md",
-    "ARCL/Features/Operators.md",
-    "ARCL/Features/Iteration and Loops.md",
-    "ARCL/Features/Functions.md",
-    "ARCL/Features/Boxes.md",
-    "ARCL/Features/Possession.md",
-    "Helpful/Creating a Git repo in the command line.md",
-    "ORG/Virgo/Virgo.md",
-    "Helpful",
-    "ARCL/Features/Memory.md",
-    "ORG/Jay8",
-    "ORG/Virgo",
-    "ORG",
-    "Untitled 1.md",
-    "ARCL/Home.canvas",
+    "ORG/Virgo/Pop!_OS.md",
+    "TrashCan/Features/Iteration and Loops.md",
+    "TrashCan/Features/Functions.md",
+    "ARCL/Type/Type.md",
+    "ARCL/Features/Parallelism.md",
+    "ARCL/Features/Iterator.md",
     "ARCL/What's ARCL.md",
-    "Features.md",
     "ARCL/Features",
-    "ARCL"
+    "ARCL/Box/Function.md",
+    "ARCL/Box/Constants.md",
+    "ARCL/Box/Variables.md",
+    "ARCL/Box/Box.md",
+    "ARCL/Type/Tag.md",
+    "TrashCan/Features/Types.md",
+    "ARCL/Type/Derived.md",
+    "ARCL/Type/Compound.md",
+    "ARCL/Type/Construction.md",
+    "ARCL/Terminology/Entity.md",
+    "ARCL/Home.canvas",
+    "ARCL/Terminology/Entity Signature.md",
+    "ARCL/Terminology/Scopes.md",
+    "ARCL/Features/Scopes/Untitled.md",
+    "ARCL/Box/Declaration.md",
+    "ARCL/Memory/Shared Memory.md",
+    "ARCL/Scope",
+    "ARCL/Scope/Lifetime.md",
+    "Untitled.md",
+    "ARCL/Terminology",
+    "ARCL/Memory",
+    "ARCL/Type",
+    "ARCL/Box",
+    "Untitled"
   ]
 }

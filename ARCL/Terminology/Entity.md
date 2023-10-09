@@ -1,0 +1,1 @@
+An ARCL program is basicly a list of entities separated with semi-colons. Each entity has its [[Entity Signature|signature]] but they aren't unique, they just classify what kind of entity thes segment of code represents.

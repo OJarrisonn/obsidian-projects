@@ -1,0 +1,1 @@
+Boxes are the things who store or reference values in ARCL. Boxes define how to handle the values stored (or referenced) by them in a [[Declaration|declaration]]. Each box has a set of characteristics, they are: [[identifier]], [[type]], [[lifetime]], [[data access]] and a [[value]].
